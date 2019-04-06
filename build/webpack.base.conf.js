@@ -47,12 +47,9 @@ module.exports = {
       '@': resolve('src'),
       '@views': resolve('src/views'),
       '@components': resolve('src/components'),
-      '@apis': resolve('src/apis'),
-      '@store': resolve('src/store'),
       '@js': resolve('src/assets/js'),
       '@impl': resolve('src/impl'),
       '@router': resolve('src/router'),
-      '@mixins': resolve('src/mixins'),
     }
   },
   module: {

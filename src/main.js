@@ -7,6 +7,7 @@ import '@/styles/index.scss';
 import App from './App';
 import router from './router';
 import './config/elementui';
+import './impl'; // 接口
 import './icons'; // 注册svg-icon组件
 import './components';
 
